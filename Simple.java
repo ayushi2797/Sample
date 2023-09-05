@@ -1,4 +1,8 @@
-jndkdjkzcslmx
-sxmsxknk
-s xjjcsn
-sxncs bsckn
+
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+ 	System.out.println("Hieee!!");
+    }
+}
